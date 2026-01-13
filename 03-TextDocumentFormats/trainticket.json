@@ -1,0 +1,10 @@
+{
+  "ticket_id": "PLK987654321",
+  "train_number": "IC 3820",
+  "train_name": "BARBAKAN",
+  "carrier": "PKP Intercity",
+  "date_of_journey": "2026-03-15",
+  "departure_time": "05:31",
+  "origin_station": "Kraków Główny",
+  "destination_station": "Szczecin Główny"
+}

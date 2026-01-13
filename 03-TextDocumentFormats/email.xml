@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <header>
+        <to>recipient@example.com</to>
+        <from>sender@example.com</from>
+        <subject>TextDocumentFormats</subject>
+        <date>30-11-25 13:45</date>
+    </header>
+    <body>
+        <message>
+	Hello
+	Bye
+        </message>
+    </body>
+</email>

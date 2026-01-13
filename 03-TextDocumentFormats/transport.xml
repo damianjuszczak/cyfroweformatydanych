@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+  <means_of_transport id="T001" type="personal">
+    <name>Car</name>
+    <model year="2020">Toyota Camry</model>
+    <fuel_source>Gasoline</fuel_source>
+    <usage_frequency>Daily</usage_frequency>
+  </means_of_transport>
+
+  <means_of_transport id="T002" type="personal">
+    <name>Bicycle</name>
+    <model year="2023">Trek FX 3 Disc</model>
+    <fuel_source>Muscular Power</fuel_source>
+    <usage_frequency>Weekly</usage_frequency>
+  </means_of_transport>
+
+  <means_of_transport id="T003" type="public">
+    <name>Bus</name>
+    <operator_name>City Transit Authority</operator_name>
+    <fuel_source>Diesel/Electric</fuel_source>
+    <route_coverage>Extensive</route_coverage>
+  </means_of_transport>
+</transport>
