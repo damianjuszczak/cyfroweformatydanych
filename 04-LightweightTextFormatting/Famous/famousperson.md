@@ -1,6 +1,6 @@
 # Mariusz Pudzianowski
 
-![Mariusz Pudzianowski](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mariusz_Pudzianowski_2011.jpg/220px-Mariusz_Pudzianowski_2011.jpg)
+![Mariusz Pudzianowski](https://upload.wikimedia.org/wikipedia/commons/8/84/Mariusz_Pudzianowski_3.JPG)
 
 Mariusz Pudzianowski, often known by his nickname "**Pudzian**" or "**Dominator**," is a Polish former strongman competitor and current mixed martial artist (MMA). He is widely considered one of the greatest strongmen in history, having won a record-breaking five World's Strongest Man titles. 
 
@@ -24,4 +24,4 @@ In 2009, Pudzianowski made a high-profile transition from strongman competitions
 
 ### For More Information
 * [Official Mariusz Pudzianowski Website](http://www.pudzian.pl)
-* [Mariusz Pudzianowski's MMA Record on Sherdog](https://www.sherdog.com/fighter/Mariusz-Pudzianowski-57329)
+* [Mariusz Pudzianowski's MMA Record on Sherdog](https://www.sherdog.com/fighter/Mariusz-Pudzianowski-57308)
