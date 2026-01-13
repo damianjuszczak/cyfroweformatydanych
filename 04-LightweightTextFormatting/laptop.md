@@ -1,8 +1,8 @@
-\# Laptop
+# Laptop
 
 
 
-A \[laptop](https://en.wikipedia.org/wiki/Laptop), often called a notebook, is a small, portable personal computer.
+A [laptop](https://en.wikipedia.org/wiki/Laptop), often called a notebook, is a small, portable personal computer.
 
 
 
@@ -10,7 +10,7 @@ They integrate all the necessary components of a computer—including a display,
 
 
 
-\## Types of Laptops
+## Types of Laptops
 
 
 
@@ -26,7 +26,7 @@ Another distinct category includes convertible or "2-in-1" laptops, which bridge
 
 
 
-\## Laptop Hardware
+## Laptop Hardware
 
 
 
@@ -40,23 +40,23 @@ Laptop processors (CPUs) are specifically designed to produce less heat and cons
 
 1.Display
 
-2\. Central processing unit \[CPU](https://en.wikipedia.org/wiki/Central\_processing\_unit)
+2. Central processing unit [CPU](https://en.wikipedia.org/wiki/Central\_processing\_unit)
 
-3\. Random-access memory \[RAM](https://en.wikipedia.org/wiki/Random-access\_memory)
+3. Random-access memory [RAM](https://en.wikipedia.org/wiki/Random-access\_memory)
 
-4\. Storage Drive
+4. Storage Drive
 
-5\. Battery
-
-
-
-\## Top Laptop Manufacturers
+5. Battery
 
 
 
-\* Lenovo
+## Top Laptop Manufacturers
 
-\* HP
 
-\* Dell
+
+* Lenovo
+
+* HP
+
+* Dell
 
