@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: darkgreen;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+th:nth-child(1), td:nth-child(1) {
+    width: 25%;
+}
+
+th:nth-child(4), td:nth-child(4) {
+    width: 40%;
+}
+
+td {
+    color: black;
+}
+
+tbody tr:hover {
+    background-color: #f0f0f0;
+}
